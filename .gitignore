@@ -4,7 +4,7 @@ build/
 out/
 *.csv
 # Important that this is above the inclusion of the gradle-wrapper.jar
-*.jar
+
 
 !gradle-wrapper.jar
 
