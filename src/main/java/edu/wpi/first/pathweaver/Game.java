@@ -22,6 +22,9 @@ public final class Game {
   public static final Game GALACTIC_SEARCH_A_2021 = loadGameFromResource("2021-galacticsearcha.json");
   public static final Game GALACTIC_SEARCH_B_2021 = loadGameFromResource("2021-galacticsearchb.json");
   public static final Game SLALOM_PATH_2021 = loadGameFromResource("2021-slalompath.json");
+  public static final Game A_PATH_2021 = loadGameFromResource("2021-percursoApath.json");
+  public static final Game B_PATH_2021 = loadGameFromResource("2021-percursoBpath.json");
+  public static final Game C_PATH_2021 = loadGameFromResource("2021-percursoCpath.json");
 
   private final String name;
   private final Field field;
