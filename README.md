@@ -1,6 +1,7 @@
 ![CI](https://github.com/wpilibsuite/PathWeaver/workflows/CI/badge.svg)
 # Desafio At-home Brasil
 Adicionados os caminhos do autonomo para o desafio at-home
+Pode ser baixado somente o .jar [Aqui](https://github.com/johnnydreher/pathWeaver/raw/atHome-Brasil/PathWeaver-win64.jar)
 
 # PathWeaver
 
